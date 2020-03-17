@@ -1,2 +1,2 @@
 # void
-a new test
+a new test for nothing.
